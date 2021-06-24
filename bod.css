@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+.grad{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.art{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.spec{
+    font-family: 'Open Sans', sans-serif;
+         /* background-image: linear-gradient(rgba(88, 83, 233, 0.719), rgba(111, 63, 221, 0.685)); */
+            background-image: url(./bg.jpg);
+            height: 100%;
+            background-position: center;
+            background-attachment: fixed;
+            background-repeat: no-repeat;
+            background-size: cover
+            
+
+}
